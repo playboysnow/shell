@@ -1,0 +1,21 @@
+http://data.stats.gov.cn/index.htm
+http://www.ceicdata.com/zh-hans
+http://www.wind.com.cn/
+http://www.soshoo.com/
+http://www.tjcn.org/
+http://aws.amazon.com/cn/datasets/?nc1=h_ls
+https://figshare.com/
+https://github.com/caesar0301/awesome-public-datasets
+http://www.youedata.com/
+ http://www.datatang.com/
+http://index.baidu.com/
+https://alizs.taobao.com/
+http://www.iresearch.com.cn/
+http://www.umeng.com/
+http://index.iqiyi.com/
+http://data.weibo.com/index
+http://www.locoy.com/
+http://www.bazhuayu.com/
+http://www.gooseeker.com/
+
+

@@ -1,0 +1,4 @@
+2017-04-26 23:57:16,666 - INFO - cc.py - index - 14 - this is a string
+2017-04-26 23:57:16,666 - DEBUG - cc.py - index - 15 - A value for debugging
+2017-04-26 23:57:16,666 - WARNING - cc.py - index - 16 - A warning occurred (42 apples)
+2017-04-26 23:57:16,666 - ERROR - cc.py - index - 17 - An error occurred
